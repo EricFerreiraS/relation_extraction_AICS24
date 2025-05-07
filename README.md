@@ -19,4 +19,9 @@ The structure for the reproducibility is:
 
 ## Reference
 ```
+@article{dos2024towards,
+  title={Towards Understanding Deep Representations in CNN: from Concepts to Relations Extraction via Knowledge Graphs},
+  author={dos Santos, Eric Ferreira and Mileo, Alessandra},
+  year={2024}
+}
 ```
